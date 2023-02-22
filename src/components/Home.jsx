@@ -16,16 +16,15 @@ const Home = () => {
         </h2>
         <p className="text-gray-50 text-2xl py-3 max-w-[700px]">
           {" "}
-          My current tools My portfolio Portfolio Front-end developer with
-          ReactJs, HTML, CSS and Javascript
+          My current tools as a front-end developer include ReactJS, HTML, CSS and JavaScript, which I use to build portfolios and projects
         </p>
         <p className="text-gray-50 text-2xl  py-2 max-w-[700px]">
-        Code version control: Github Layout
+          Code version control: Github 
         </p>
         <p className="text-gray-50 text-2xl py-2 max-w-[700px]">
-        Layout Design: Figma
+          Layout Design: Figma
         </p>
-        
+
 
         <div>
           <button
