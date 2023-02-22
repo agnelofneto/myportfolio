@@ -1,16 +1,42 @@
-### 💻React DOM Router
+### 💻My second portfolio
 
-In this project, I used React to create two pages: login and password recovery. I connected them using React Router, which uses components to represent routes and has a <BrowserRouter> component to manage URL changes. The React Router is fundamental for navigating React apps and routes are the supported URLs.
+Powered by React and Tailwind CSS
+Hello! This is my second portfolio, developed with React and Tailwind CSS. This project was created with the aim of showing my skills in web development, using modern and updated technologies.
 
 
-#### What was developed:
+#### Technologies used
 
-- Responsive css;
-- React DOM Router using npm or yarn package manager.
-- Import the components: In your JavaScript file, import the React DOM Router components you need, such as <Router>, <Link>, and <Route>.
-- Create Routes: Define routes to your application's pages using the <Route> component.
-- Add the <Router> component: Add the <Router> component to the root of your application and send its routes as child components.
-- Creating links between pages: Use the <Link> component to create links between pages in your application
+- React.
+- Tailwind CSS.
+
+### Project Organization
+
+#### The project was divided into five main parts:
+
+-About: In this section, I present a little about myself and my skills.
+
+-Home: Here is the home page of the site, with a modern and pleasant design.
+
+-Navbar: The site's top navigation bar, which makes navigation easy and intuitive.
+
+-Skills: I present my skills in different technologies.
+
+-Work: I present some of my projects and challenges.
+
+### Styling with Tailwind CSS
+ This project was styled using Tailwind CSS, a highly customizable and efficient style library. Tailwind's flexibility allowed me to quickly style components, making the development process more streamlined and consistent.
+ 
+ ### Responsive design
+ This website is designed to be responsive on all devices, from smartphones to desktops. I created different layouts and styling rules to make sure the site adapts perfectly to each screen size.
+This website is designed to be responsive on all devices from smartphones to desktops. I created different layouts and style rules so that the site would adapt perfectly to each screen size.
+
+ ### How to access the project
+ If you want to take a look at the project, you can access it through my Github. There you will find all the details of the code and how the project turned out.
+
+https://github.com/agnelofneto/myportfolio
+
+
+
 
 
   
@@ -30,3 +56,4 @@ Application developed using the following tools:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 - [React](https://reactjs.org/)
+- [TAILWIND CSS](https://tailwindcss.com/)
