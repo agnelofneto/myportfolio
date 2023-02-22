@@ -31,22 +31,14 @@ Hello! This is my second portfolio, developed with React and Tailwind CSS. This 
 This website is designed to be responsive on all devices from smartphones to desktops. I created different layouts and style rules so that the site would adapt perfectly to each screen size.
 
  ### How to access the project
- If you want to take a look at the project, you can access it through my Github. There you will find all the details of the code and how the project turned out.
-
-https://github.com/agnelofneto/myportfolio
-
+ If you want to take a look at the project, you can access it through my netlify.
+https://agnelo.netlify.app/
 
 
 
 
-  
-<br />
 
-<h1 align="center">
-<img alt="Video router Dom " title="gif" src="./src/assets/routerdom.gif" />
-</h1>
-
-
+ 
 
 
 ### 🧪 Tools
